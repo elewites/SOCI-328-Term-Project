@@ -39,13 +39,13 @@ The `co2_vs_ihdi_data_compiled_clean` contains 9 worksheets.
 
 ## The Analysis 
 
-**Independent Sample T Tests: IHDI & Annual CO2 per capita**
+###**Independent Sample T Tests: IHDI & Annual CO2 per capita**
 - To investigate whether higher CO2 emissions are associated with lower Inequality-Adjusted Human Development Index (IHDI), I performed an independent t-test to compare the IHDI of countries with above-median CO2 emissions to those with below-median emissions. The research question was whether there is a significant difference in IHDI between the two groups, and the median was chosen as the measure of central tendency due to the positively skewed data.
 
-**Anova Analysis: IHDI && Democracy Index**
+###**Anova Analysis: IHDI & Democracy Index**
 - To investigate whether the quality of governance affects a country's human development, I used the Democracy Index to divide countries into four categories: Full Democracy, Flawed Democracy, Hybrid Regime, and Authoritarian Regime. I then performed an ANOVA test to determine whether there were significant differences in human development means among the four groups.
 
-**Correlation & Regression Analysis: IHDI & Corruption Perception Index**
+###**Correlation & Regression Analysis: IHDI & Corruption Perception Index**
 - To explore the relationship between corruption and human development, I used correlation and regression analyses to examine the association between the Corruption Perception Index (CPI) and the Inequality-Adjusted Human Development Index (IHDI), which measures a country's overall human development on a scale from 0 to 1. The CPI measures perceived levels of public sector corruption on a scale from 0 (highly corrupt) to 100 (very clean). I hypothesized that there would be a positive correlation between these variables, indicating that countries with lower corruption levels (higher CPI scores) would have higher levels of human development (higher IHDI scores).
 
 ## Results 
