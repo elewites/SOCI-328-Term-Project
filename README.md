@@ -50,6 +50,6 @@ The `co2_vs_ihdi_data_compiled_clean` contains 9 worksheets.
 
 ## Results 
 
- I have included the written results and analysis in the `Final_Assignment_Soci_328.pdf` file.
+ I have included the written results and analysis in the `Final_Assignment_Soci_328_CLEAN.pdf` file.
 
 
