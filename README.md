@@ -1,4 +1,4 @@
-# SOCI-328-Term-Project
+# Quantitative Analysis of Global Development: Statistical Evaluation of Factors Influencing IHDI
 
 ## Learning Objectives
 1. Acquire skills to compile and cleanse data using Excel
