@@ -27,7 +27,7 @@ The independent variables that I chose to explain the differences in IHDI across
 
 The `co2_vs_ihdi_data_compiled_clean` contains 9 worksheets. 
 1. `clean data`
-2. `codebook`
+2. `codebook` includes metadata and data sources
 3. `independent_sample_t_test` results
 4. `anova_test` results
 5. `correlation_analysis` results & linear regression analysis
